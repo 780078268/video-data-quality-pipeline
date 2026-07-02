@@ -1,0 +1,5 @@
+path,duration_sec,width,height,fps,sampled_frames,brightness,contrast,sharpness,black_ratio,overexposed_ratio,motion_score,duplicate_rate,quality_score,decision,issues
+demo_videos/bright_static.mp4,5.0,640,360,24.0,5,253.0,0.0,0.0,0.0,1.0,0.0,1.0,21.0,reject,too_bright;low_contrast;blurry_or_flat;overexposed;low_motion;duplicate_frames
+demo_videos/dark_static.mp4,5.0,640,360,24.0,5,0.0,0.0,0.0,1.0,0.0,0.0,1.0,18.0,reject,too_dark;low_contrast;blurry_or_flat;black_frame_risk;low_motion;duplicate_frames
+demo_videos/good_motion.mp4,5.0,640,360,24.0,5,125.21,63.42,3.63,0.0009,0.0,8.14,0.0,100.0,accept,none
+demo_videos/low_resolution_motion.mp4,5.0,256,144,24.0,5,117.22,64.61,5.25,0.0038,0.0,14.73,0.0,90.0,review,low_resolution
