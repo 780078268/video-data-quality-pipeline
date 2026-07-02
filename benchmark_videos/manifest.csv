@@ -1,0 +1,17 @@
+file,scenario
+good_motion_testsrc2.mp4,clean moving pattern
+good_motion_testsrc.mp4,clean chart animation
+good_widescreen_motion.mp4,clean widescreen motion
+vertical_motion.mp4,vertical motion sample
+low_resolution_motion.mp4,low resolution motion
+short_motion.mp4,too short for training
+dark_motion.mp4,dark moving sample
+bright_motion.mp4,bright moving sample
+low_contrast_motion.mp4,low contrast motion
+blurry_motion.mp4,blurred motion
+noisy_motion.mp4,noisy moving sample
+black_static.mp4,black static frame
+white_static.mp4,white static frame
+gray_static.mp4,gray static frame
+colorbars_static.mp4,static color bars
+low_res_static.mp4,low resolution static frame
